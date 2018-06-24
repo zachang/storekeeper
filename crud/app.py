@@ -9,6 +9,10 @@ stores = [
             {
                 'name': 'Bread',
                 'price': 3.00
+            },
+            {
+                'name': 'Rice',
+                'price': 4.00
             }
         ]
     }
